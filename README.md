@@ -1,4 +1,5 @@
-![Chatbot](https://github.com/user-attachments/assets/14a72b89-d0a2-462a-8e35-dedddfa3980b)
+![Chatbot](https://github.com/selincocarca/Gipuzkoa_Chatbot/raw/main/Chatbot.png)
+
 <br></br>
 
 # Gipuzkoa Chatbot
