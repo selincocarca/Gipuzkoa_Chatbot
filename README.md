@@ -1,3 +1,6 @@
+![Chatbot](https://github.com/user-attachments/assets/14a72b89-d0a2-462a-8e35-dedddfa3980b)
+<br></br>
+
 # Gipuzkoa Chatbot
 
 En este repositorio se encuentra un proyecto de chatbot interactivo diseñado para responder preguntas sobre Gipuzkoa, una provincia en el País Vasco. Utilizamos el modelo de lenguaje GPT-3.5-turbo de OpenAI para generar respuestas informativas y precisas en euskera. El chatbot aprovecha una base de datos que combina preguntas y respuestas predefinidas con contenido generado dinámicamente.
